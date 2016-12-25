@@ -9,5 +9,5 @@ The following changes (uncomments) need to done in the php.ini in widnows system
 for PDO connection, uncomment the following line in windows php.ini file
 extension=php_pdo_mysql.dll
 
-productdemo - is pure php based project using bootstrap, and jquery and PDO approach to connect to mysql database.
+##productdemo - is pure php based project using bootstrap, and jquery and PDO approach to connect to mysql database.
 
