@@ -1,4 +1,4 @@
-*Here I put multiple projects for the demo of the application.
+Here I put multiple projects for the demo of the application.
 ##taskdemo - is angular and php based project using mysql database to store and retrieve data. it is using mysqli to connect to db.
 
 The following changes (uncomments) need to done in the php.ini in widnows system-
