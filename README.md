@@ -4,10 +4,10 @@ Here I put multiple projects for the demo of the application.
 The following changes (uncomments) need to done in the php.ini in widnows system-
 
   include_path = ".;c:\php\includes" <br/> 
-  extension_dir = "ext"
-  extension=C:/tools/php/ext\php_mysqli.dll
-for PDO connection, uncomment the following line in windows php.ini file
-extension=php_pdo_mysql.dll
+  extension_dir = "ext"<br/>
+  extension=C:/tools/php/ext\php_mysqli.dll<br/>
+for PDO connection, uncomment the following line in windows php.ini file<br/>
+extension=php_pdo_mysql.dll<br/>
 
 ##productdemo - is pure php based project using bootstrap, and jquery and PDO approach to connect to mysql database.
 
